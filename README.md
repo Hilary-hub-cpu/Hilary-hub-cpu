@@ -1,5 +1,8 @@
 Sonnabella Hilary DIALLO
+
+
 Étudiante en Licence de Génie Logiciel à l'Institut de Formation et de Recherche en Informatique (IFRI), je construis mon parcours académique et professionnel autour du développement logiciel et de ma passion pour l'Intelligence Artificielle et le Machine Learning.
+
 
 Mon quotidien se partage entre l'apprentissage universitaire à l'UAC et une implication pratique dans l'écosystème tech à travers des programmes d'excellence. Je suis actuellement boursière de l'organisation iSHEERO, ce qui me permet de suivre une spécialisation en Machine Learning sur DataCamp.
 
